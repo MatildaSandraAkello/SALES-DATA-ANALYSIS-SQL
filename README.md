@@ -8,6 +8,7 @@
 - [FINDINGS](#findings)
 - [RECOMMENDATIONS](#recommendations)
 ## PROJECT OVERVIEW
+![Picture1](https://github.com/MatildaSandraAkello/SALES-DATA-ANALYSIS-SQL/assets/146660748/9b987a93-1df2-4ba8-8a33-b59e0013606f)
 
 **Purpose:** To Analyze sales data and identify trends, top-selling products, and revenue metrics for business decision-making.
 
