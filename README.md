@@ -8,11 +8,11 @@
 - [FINDINGS](#findings)
 - [RECOMMENDATIONS](#recommendations)
 ## PROJECT OVERVIEW
-![Picture1](https://github.com/MatildaSandraAkello/SALES-DATA-ANALYSIS-SQL/assets/146660748/9b987a93-1df2-4ba8-8a33-b59e0013606f)
-
 **Purpose:** To Analyze sales data and identify trends, top-selling products, and revenue metrics for business decision-making.
 
 **Description:** In this project, I will dive into a large sales dataset to extract valuable insights. I’ll explore sales trends over time, identify the best-selling products, calculate revenue metrics such as total sales and profit margins, and create visualizations to present my findings effectively. This project showcases my ability to manipulate and derive insights from large datasets, enabling me to make data-driven recommendations for optimizing sales strategies.
+
+![Picture1](https://github.com/MatildaSandraAkello/SALES-DATA-ANALYSIS-SQL/assets/146660748/9b987a93-1df2-4ba8-8a33-b59e0013606f)
 
 ## Data Source
 The "sales_data.csv" dataset was provided as part of the MeriSkill Interniship requirement. The dataset contains detailed sales information made by a company.
@@ -31,7 +31,7 @@ The "sales_data.csv" dataset was provided as part of the MeriSkill Interniship r
 7. What are the Top 5 worst performing products?
 8. What do the Sales look like, by City?
 
-## DATA ANALYSIS
+## DATA ANALYSIS 
 1. Total Profit – This is the sum of Net Profit from all Sales Transactions.
 ```sql
 SELECT SUM(Sales) AS Total_Profit
